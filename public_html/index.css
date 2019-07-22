@@ -1,0 +1,455 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
+/* Style of WebPage body*/
+body {
+  margin: 0;
+  font-size: 28px;
+  background-color: #FFFFFF;
+  transition: background-color .5s;
+}
+
+@font-face {
+font-family: Brandon Grotesque;
+src: url('BGREG.otf');
+}
+
+/* Top Sticky Menu */
+#main {
+  overflow: hidden;
+  background-color: #f7f7f7;
+}
+
+#main .span {
+  font-size:25px;
+  cursor:pointer;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 10px;
+}
+/* End of top sticky menu */
+
+#particles-js form{
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* Animated Particles */
+#particles-js {
+  height: 100%;
+  background: #262626;
+}
+
+#overlay {
+  position: absolute;; /* Sit on top of the page content */
+  width: 350px; /* Full width (cover the whole page) */
+  height: 200px; /* Full height (cover the whole page) */
+  left: 18%;
+  top: 40%;
+  /* background-color: rgba(0,0,0,0.5); Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+  color: white;
+  font-family: PT Serif,serif;
+}﻿
+
+#overlay .text{
+  position: absolute;
+  top: 10%
+  font-size: 20px;
+  top: -10%;
+  color: red;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  font-family: PT Serif,serif;
+}
+
+#overlay .text h1{
+  color: white;
+  top: 10%;
+  font-size: 62px;
+  /* text-align: center; */
+  font-family: PT Serif,serif;
+  font-weight: 700;
+}
+
+#overlay .text p{
+  color: white;
+  top: 25%;
+  font-size: 22px;
+  /* text-align: center; */
+  font-family: PT Serif,serif;
+  font-weight: 700;
+}
+
+.scroll-button {
+  position: absolute;; /* Sit on top of the page content */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 10%; /* Full height (cover the whole page) */
+  left: 0%;
+  bottom: 1px;
+  /* background-color: rgba(0,0,0,0.5); Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+  color: white;
+  font-family: PT Serif,serif;
+}﻿
+
+/* Landing Div, Header: Intro Photo and Greeting Mirror_build1.jpg*/
+.intro-section {
+  height: 300px;
+  overflow: hidden;
+  text-align: center;
+  background: url("Wix_background.png") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding : 60px;
+}
+
+.intro-section h1{
+  text-transform: uppercase;
+  color: white;
+  font-size: 48px;
+  text-align: center;
+  font-family: PT Serif,serif;
+  margin-top: 5px;
+}
+
+.intro-section h2{
+  color: white;
+  font-size: 42px;
+  font-style: italic;
+  text-align: center;
+  font-family: Playfair Display;
+  margin-top: 180px;
+}
+
+.border1 {
+  display: inline-flex;
+  margin: auto;
+  width: 500px;
+  height: 3px;
+  background: #FFFFFF;
+}
+/* End of Header Div, Intro Photo and Greeting */
+
+/* Start of Running ID */
+
+.running_views{
+  background-color: #f2f2f2;
+  /* color: #240b70;*/
+  color: #0d194f;
+}
+
+.running_views h1{
+  color: #333;
+  font-size: 36px;
+  font-style: normal;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  line-height: 3rem;
+}
+
+.running_views p{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #50555c;
+  left: 300px;
+  right: 300px;
+  font-size: 22px;
+  font-style: oblique;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  line-height: 2rem;
+}
+
+.running_picturs {
+  background-color: #f2f2f2;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+#run {
+    max-width:100%;
+    margin:0 auto;
+    padding:0;
+    font-size:0; /* Remember to change it back to normal font size if have captions */
+    list-style:none;
+    background-color: #f2f2f2;
+}
+#run li {
+    display: inline-block;
+    /**display:inline;/*for IE6 - IE7*/
+    width:20%;
+    vertical-align:middle;
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+/* The wrapper for each item */
+.rig-cell {
+    /*margin:12px;
+    box-shadow:0 0 6px rgba(0,0,0,0.3);*/
+    display:block;
+    position: relative;
+    overflow:hidden;
+}
+
+/* If have the image layer */
+.rig-img {
+    display:block;
+    width: 100%;
+    height: 33%;
+    border:none;
+    transform:scale(1);
+    transition:all 0.1s;
+    filter: grayscale(100%);
+}
+
+.rig-img-nonGray {
+    display:block;
+    width: 100%;
+    height: 33%;
+    border:none;
+}
+
+#run li:hover .rig-img {
+    transform:scale(1.05);
+    filter: none;
+}
+
+/* If have the overlay layer
+.rig-overlay {
+    position: absolute;
+    display:block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background: #3DC0F1 url(img/link.png) no-repeat center 20%;
+    background-size:50px 50px;
+    opacity:0;
+    filter:alpha(opacity=0);
+    transition:all 0.6s;
+}
+#run li:hover .rig-overlay {
+    opacity:0.8;
+}
+/*
+
+/* If have captions
+.rig-text {
+    display:block;
+    padding:0 30px;
+    box-sizing:border-box;
+    position:absolute;
+    left:0;
+    width:100%;
+    text-align:center;
+    text-transform:capitalize;
+    font-size:18px;
+    font-weight:bold;
+    font-family: 'Oswald', sans-serif;
+    font-weight:normal!important;
+    top:40%;
+    color:white;
+    opacity:0;
+    filter:alpha(opacity=0);
+    transform:translateY(-20px);
+    transition:all .3s;
+}
+*/
+
+#run li:hover .rig-text {
+    transform:translateY(0px);
+    opacity:0.9;
+}
+
+.running_column a:hover > img {
+  filter: none;
+}
+
+/* End of Running ID */
+
+/* Start of Values ID */
+.my_system {
+  overflow: hidden;
+  text-align: center;
+  background-image: linear-gradient(-133deg,#99a3e8,#76bddb);
+  height:auto;
+  background-size: cover;
+  padding : 10px;
+}
+
+.my_system h1 {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 90px;
+}
+
+.my_system p {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 50px;
+}
+/* End of Values ID */
+
+
+/* Start of Footer Section  */
+#footer {
+    background-color: #2F3133;
+    color: #CCCCDD;
+    text-align: center;
+}
+
+#footer-inner {
+   width: 700px;
+   margin: 0 auto;
+   padding: 30px 0;
+ }
+#footer .email-twitter {
+  font-size: 20px;
+  font-weight: 100;
+  border-top: 1px solid #4F5153;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: rgb(79, 81, 83);
+  padding-top: 10px;
+  border-bottom: 1px solid #4F5153;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(79, 81, 83);
+  padding-bottom: 10px;
+}
+
+#footer .email-twitter .label {
+    font-weight: 300;
+    color: #EEE;
+}
+
+#footer .email-twitter .spacing {
+    width: 20px;
+    display: inline-block;
+}
+
+#footer a {
+    color: #CCCCDD;
+    text-decoration: none;
+}
+
+#footer p {
+  font-weight: 300;
+  color: #FFFFFF;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+#footer ul li {
+    display: inline;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Container for background image & parallax effect */
+body, html {
+    height: 100%;
+}
+
+.parallax-one {
+    /* Full height */
+    height: 100%;
+    width: 100%;
+    background-image: url("Mirror_build1.jpg");
+
+    /* Create the parallax scrolling  */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+/* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+
+/* Screen Styling */
+@media (max-width: 9000px) {
+    #run li {
+        width:20%;
+    }
+
+    #overlay {
+      width: 100%;
+    }
+
+    #intro-wrapper .prof-pic .prof-descr{
+      width:40%;
+    }
+
+    #skills-wrapper {
+      font-size: 16px;
+    }
+}
+
+@media (max-width: 700px) {
+    #run li {
+        width:33.33%;
+    }
+
+    #intro-wrapper .prof-pic .prof-descr{
+      width:30%;
+    }
+
+    #skills-wrapper {
+      font-size: 12px;
+    }
+}
+
+@media (max-width: 550px) {
+    #run li {
+        width:50%;
+    }
+
+    #intro-wrapper .prof-pic .prof-descr{
+      width:20%;
+    }
+
+    #skills-wrapper p{
+      font-size: 10px;
+    }
+}
+
+/* Mobile proofing the site */
+@viewport {
+  width: device-width : zoom: 1.0;
+}
+
+@-ms-viewport{
+  width: device-width ;
+}

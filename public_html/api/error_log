@@ -1,0 +1,62 @@
+[14-Mar-2019 16:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/nekld1fjbirl/public_html/api/phpAPI_createDB.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/nekld1fjbirl/public_html/api/phpAPI_createDB.php on line 2
+[15-Mar-2019 21:12:04 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home/nekld1fjbirl/public_html/api/db_connect.php on line 22
+[16-Mar-2019 01:17:44 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home/nekld1fjbirl/public_html/api/db_connect.php on line 22
+[16-Mar-2019 01:17:56 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/together_api.php on line 8
+[16-Mar-2019 01:53:25 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 01:53:25 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 01:53:51 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 01:53:51 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 01:54:46 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 01:54:46 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 01:55:22 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 01:55:22 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 01:56:21 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 01:56:21 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 01:59:14 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 01:59:14 UTC] PHP Notice:  Undefined variable: viva_status in /home/nekld1fjbirl/public_html/api/insert.php on line 22
+[16-Mar-2019 01:59:14 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:00:57 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:00:57 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:00:57 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:00:57 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:03:09 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:03:09 UTC] PHP Notice:  Undefined variable: access_time in /home/nekld1fjbirl/public_html/api/insert.php on line 23
+[16-Mar-2019 02:03:09 UTC] PHP Notice:  Undefined variable: hospital_room in /home/nekld1fjbirl/public_html/api/insert.php on line 24
+[16-Mar-2019 02:03:09 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:03:46 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:03:46 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:03:47 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:03:47 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:05:01 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:05:01 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:05:01 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:05:01 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 02:07:16 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/insert.php on line 19
+[16-Mar-2019 02:07:16 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nekld1fjbirl/public_html/api/dbconfig.php on line 4
+[16-Mar-2019 17:28:42 UTC] PHP Notice:  Undefined variable: servername in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:28:42 UTC] PHP Notice:  Undefined variable: username in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:28:42 UTC] PHP Notice:  Undefined variable: password in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:28:42 UTC] PHP Notice:  Undefined variable: database in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:28:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nekld1fjbirl'@'localhost' (using password: NO) in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:29:27 UTC] PHP Notice:  Undefined variable: servername in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:29:27 UTC] PHP Notice:  Undefined variable: username in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:29:27 UTC] PHP Notice:  Undefined variable: password in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:29:27 UTC] PHP Notice:  Undefined variable: database in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:29:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nekld1fjbirl'@'localhost' (using password: NO) in /home/nekld1fjbirl/public_html/api/test_insert.php on line 4
+[16-Mar-2019 17:30:16 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/test_insert.php on line 28
+[16-Mar-2019 17:35:07 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/test_insert.php on line 28
+[16-Mar-2019 17:35:38 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/test_insert.php on line 28
+[16-Mar-2019 17:36:59 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/test_insert.php on line 28
+[16-Mar-2019 17:39:07 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/test_insert.php on line 28
+[16-Mar-2019 17:41:26 UTC] PHP Notice:  Undefined variable: GET_ in /home/nekld1fjbirl/public_html/api/test_insert.php on line 29
+[17-Mar-2019 16:52:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/nekld1fjbirl/public_html/api/display_data.php on line 136
+[17-Mar-2019 16:54:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/nekld1fjbirl/public_html/api/display_data.php on line 136
+[17-Mar-2019 16:54:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/nekld1fjbirl/public_html/api/display_data.php on line 136
+[22-Apr-2019 19:02:37 UTC] PHP Parse error:  syntax error, unexpected '"<br"' (T_CONSTANT_ENCAPSED_STRING) in /home/nekld1fjbirl/public_html/api/display_data.php on line 29
+[22-Apr-2019 19:02:39 UTC] PHP Parse error:  syntax error, unexpected '"<br"' (T_CONSTANT_ENCAPSED_STRING) in /home/nekld1fjbirl/public_html/api/display_data.php on line 29
+[22-Apr-2019 19:02:40 UTC] PHP Parse error:  syntax error, unexpected '"<br"' (T_CONSTANT_ENCAPSED_STRING) in /home/nekld1fjbirl/public_html/api/display_data.php on line 29
+[22-Apr-2019 19:02:41 UTC] PHP Parse error:  syntax error, unexpected '"<br"' (T_CONSTANT_ENCAPSED_STRING) in /home/nekld1fjbirl/public_html/api/display_data.php on line 29
+[22-Apr-2019 19:02:43 UTC] PHP Parse error:  syntax error, unexpected '"<br"' (T_CONSTANT_ENCAPSED_STRING) in /home/nekld1fjbirl/public_html/api/display_data.php on line 29

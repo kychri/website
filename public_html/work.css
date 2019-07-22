@@ -1,0 +1,115 @@
+/* Style of WebPage body*/
+body {
+  margin: 0;
+  font-size: 28px;
+  background-color: #b30000;
+}
+
+/* I dont think this does anything */
+.header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+}
+
+/* Top NavBar */
+#navbar {
+  overflow: hidden;
+  background-color: #000000;
+}
+
+/* Top NavBar */
+#navbar a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+
+  font-family: Raleway;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Top NavBar */
+#navbar a:hover {
+  /* Grey: background-color: #3a3333; */
+  background-color: #b30000;
+  color: #000000;
+  /* text-decoration: underline; */
+  font-family: Raleway;
+}
+
+#navbar a.active {
+  background-color: #4c0d0d;
+  color: white;
+  border-top: 5px solid #4c0d0d;
+  border-bottom: 5px solid #4c0d0d;
+  font-family: Raleway;
+}
+
+/* Fancy Hover Effect Top Navbar */
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+.link-3 {
+  transition: 0.4s ease;
+  background: #000000;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border-top: 5px solid #b30000;
+  border-bottom: 5px solid #b30000;
+  padding: 5px 0;
+  margin: 0 2px;
+}
+.link-3:hover {
+  border-top: 5px solid #b30000;
+  border-bottom: 5px solid #b30000;
+  padding: 0px 0;
+}
+/* End of Fancy Hover Effect */
+
+/* Top NavBar */
+.content {
+  padding: 16px;
+}
+
+/* Top NavBar */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Top NavBar */
+.sticky + .content {
+  padding-top: 60px;
+}
+
+/* Container for background image & parallax effect */
+body, html {
+    height: 100%;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url('model_background.jpg');
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+/* End of background image parallax effect style */

@@ -1,0 +1,55 @@
+[03-Jul-2019 18:48:15 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 161
+[03-Jul-2019 18:48:15 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 162
+[03-Jul-2019 18:55:34 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 161
+[03-Jul-2019 18:55:34 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 162
+[03-Jul-2019 18:55:39 UTC] PHP Notice:  Undefined index: user in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 18:55:39 UTC] PHP Notice:  Undefined index: pass in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 18:55:50 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 161
+[03-Jul-2019 18:55:50 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 162
+[03-Jul-2019 18:57:05 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 161
+[03-Jul-2019 18:57:05 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 162
+[03-Jul-2019 18:57:07 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 161
+[03-Jul-2019 18:57:07 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 162
+[03-Jul-2019 19:02:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:02:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:02:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:02:46 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:02:46 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:02:53 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:02:53 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:04:47 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:04:47 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:04:59 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:04:59 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:05:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:05:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:08:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:08:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:08:24 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:08:24 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:08:24 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:08:24 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:08:30 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:08:30 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:08:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:08:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nekld1fjbirl/public_html/Ports_stuff/index.php on line 170
+[03-Jul-2019 19:11:15 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:11:15 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:11:32 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:11:32 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:11:59 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:11:59 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:13:51 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:13:51 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:17:46 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:17:46 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:18:32 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:18:32 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:20:34 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:20:34 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:20:46 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:20:46 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:20:54 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:20:54 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
+[03-Jul-2019 19:21:21 UTC] PHP Notice:  Undefined index: username in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 2
+[03-Jul-2019 19:21:21 UTC] PHP Notice:  Undefined index: password in /home/nekld1fjbirl/public_html/Ports_stuff/secure.php on line 3
